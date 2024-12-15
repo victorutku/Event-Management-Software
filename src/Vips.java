@@ -1,0 +1,3 @@
+public enum Vips {
+   GANDALF,FRODO,ARAGORN,LEGOLAS,SAM,OTHERS;
+}
